@@ -1,0 +1,5 @@
+C:\Users\bcumm\Desktop\RSLEE\RSLDE.exe
+C:\Users\bcumm\Desktop\RSLEE\RSLDE.dll
+C:\Users\bcumm\Desktop\RSLEE\RSLDE.deps.json
+C:\Users\bcumm\Desktop\RSLEE\RSLDE.runtimeconfig.json
+C:\Users\bcumm\Desktop\RSLEE\RSLDE.pdb

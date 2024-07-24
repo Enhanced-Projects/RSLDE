@@ -1,0 +1,16 @@
+E:\Development\Visual Studio\RSLDE\bin\Release\net8.0-windows\RSLDE.exe
+E:\Development\Visual Studio\RSLDE\bin\Release\net8.0-windows\RSLDE.deps.json
+E:\Development\Visual Studio\RSLDE\bin\Release\net8.0-windows\RSLDE.runtimeconfig.json
+E:\Development\Visual Studio\RSLDE\bin\Release\net8.0-windows\RSLDE.dll
+E:\Development\Visual Studio\RSLDE\bin\Release\net8.0-windows\RSLDE.pdb
+E:\Development\Visual Studio\RSLDE\obj\Release\net8.0-windows\RSLDE.Form1.resources
+E:\Development\Visual Studio\RSLDE\obj\Release\net8.0-windows\RSLDE.vbproj.GenerateResource.cache
+E:\Development\Visual Studio\RSLDE\obj\Release\net8.0-windows\RSLDE.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\Visual Studio\RSLDE\obj\Release\net8.0-windows\RSLDE.AssemblyInfoInputs.cache
+E:\Development\Visual Studio\RSLDE\obj\Release\net8.0-windows\RSLDE.AssemblyInfo.vb
+E:\Development\Visual Studio\RSLDE\obj\Release\net8.0-windows\RSLDE.vbproj.CoreCompileInputs.cache
+E:\Development\Visual Studio\RSLDE\obj\Release\net8.0-windows\RSLDE.dll
+E:\Development\Visual Studio\RSLDE\obj\Release\net8.0-windows\refint\RSLDE.dll
+E:\Development\Visual Studio\RSLDE\obj\Release\net8.0-windows\RSLDE.pdb
+E:\Development\Visual Studio\RSLDE\obj\Release\net8.0-windows\RSLDE.genruntimeconfig.cache
+E:\Development\Visual Studio\RSLDE\obj\Release\net8.0-windows\ref\RSLDE.dll
